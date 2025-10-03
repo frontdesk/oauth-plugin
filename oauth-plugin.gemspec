@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "fakeweb"
   s.add_development_dependency "fuubar"
   s.add_development_dependency "guard-rspec"
-  s.add_development_dependency "growl"
   s.add_development_dependency "rack-test"
   s.add_development_dependency "simplecov"
   s.add_development_dependency "rails", "~> 6.1.0"
